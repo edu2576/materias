@@ -1,0 +1,14 @@
+{
+  "name": "materias",
+  "version": "1.0.0",
+  "description": "Primer trabajo",
+  "main": "lista.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduard Bernal bernal1021@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
